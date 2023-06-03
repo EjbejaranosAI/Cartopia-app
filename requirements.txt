@@ -1,1 +1,2 @@
 "kivy[base]" kivy_examples --no-binary kivy
+pygame
